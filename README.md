@@ -8,8 +8,12 @@
 
 
 This is the official repository for the paper ["ELTEX: A Framework for Domain-Driven Synthetic Data Generation"](https://arxiv.org/abs/2503.15055). ELTEX is a framework that generates high-quality synthetic training data by systematically extracting domain-specific knowledge, enabling resource-efficient models to achieve GPT-4-competitive performance in specialized domains.
+
+## :shipit: News
+- [2025/04/15] A revised version featuring ELTEX implementation as a Google Sheets add-on is out!
+- [2025/03/19] ELTEX paper is out! 
 ## ELTEX Sheets: Build Synthetic Datasets in Google Sheets
-We've developed a full-featured Google Sheets add-on that brings our framework directly to users! Currently used internally and coming soon for public release! Stay tuned for updates :shipit:
+We've developed a full-featured Google Sheets add-on that brings our framework directly to users! Currently used internally and coming soon for public release! Stay tuned for updates :)
 
 ### Key Features
 - No-Code Data Generation: Generate and manage domain-specific datasets directly in Google Sheets
